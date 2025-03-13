@@ -34,7 +34,7 @@ Compreender e testar os diferentes **níveis de filtragem** oferecidos pela Azur
 
 ### 🎙️ Exemplo de resposta com e sem definição instruções e contexto ao modelo
 Respostas obtidas:  
-![Transcrição em Tempo Real](output/image-generative.png)  
+![Resultado](output/image-generative.png)  
 
 
 ---
