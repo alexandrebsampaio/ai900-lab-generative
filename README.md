@@ -2,9 +2,7 @@
 
 Este repositório contém um projeto prático desenvolvido durante o curso de Inteligência Artificial da Azure na DIO. O objetivo deste projeto é explorar os **filtros de conteúdo** disponíveis na **Azure OpenAI**, garantindo que os modelos de IA gerem respostas seguras e adequadas para diferentes contextos.  
 
----
-
-## 📌 Objetivo  
+## Objetivo  
 
 Compreender e testar os diferentes **níveis de filtragem** oferecidos pela Azure OpenAI para moderação de conteúdo, analisando como a IA pode bloquear ou ajustar respostas com base em regras predefinidas.  
 
